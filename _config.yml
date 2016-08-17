@@ -1,4 +1,3 @@
-layout_spectrum: 0.71424978855066
 typography_spectrum: 0.0012288200668990612
 color:
   brandStrength: 0.20579180563800037
@@ -6,9 +5,11 @@ color:
   saturation: 0.23502641543745995
   rhythmicContrast: 0.3950742413289845
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+layout_spectrum: 0.71424978855066
 name: Eagleville
+title: Helping all experience a great life in Christ!
